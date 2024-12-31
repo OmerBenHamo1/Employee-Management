@@ -40,19 +40,20 @@ $password = "";
 $database = "employees_management";
 
 ### Step 4: Set Up the Frontend
-1.Navigate to the frontend folder
-2.Install the dependencies : npm install
-3.Start the development server : npm star
+1. Navigate to the frontend folder
+2. Install the dependencies : npm instal
+3. Start the development server : npm start
 4. Access the application at : http://localhost:3000
 
-Use the interface to:
-View employees.
-Add new employees.
-Update existing employee details.
-Delete employees.
+### Use the interface to:
+1. View employees.
+2. Add new employees.
+3. Update existing employee details.
+4. Delete employees.
 
-*Author* :
+### Author :
 Omer Ben Hamo
 GitHub: OmerBenHamo1
+
 
 
