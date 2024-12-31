@@ -34,7 +34,6 @@ A comprehensive system for managing employee information, including CRUD operati
 ### Step 3: Set Up the Backend
 1. Copy the `backend` folder to the `htdocs` directory in your XAMPP installation:
 2.2. Configure the database connection in the `db.php` file:
-```php
 $host = "localhost";
 $username = "root";
 $password = "";
