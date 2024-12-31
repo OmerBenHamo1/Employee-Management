@@ -29,7 +29,7 @@ A comprehensive system for managing employee information, including CRUD operati
 
 ### Step 2: Configure MySQL
 1. Create a new database named `employees_management`.
-2.  Import the `employees_management.sql` file provided in the `backend` folder to set up the `employees` table.
+2.  Set up the `employees` table.
 
 ### Step 3: Set Up the Backend
 1. Copy the `backend` folder to the `htdocs` directory in your XAMPP installation:
